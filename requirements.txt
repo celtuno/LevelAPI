@@ -1,0 +1,7 @@
+fastapi[all]
+jupyterlab
+asyncio
+aiohttp
+aiofiles
+imutils
+opencv-python
